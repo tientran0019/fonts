@@ -17,6 +17,7 @@ My favorite fonts.
 - [x] SF Pro Text
 - [x] SF UI
 - [x] Uber
+- [x] Dosis
 
 ## More
 There are more open source fonts.
